@@ -1,6 +1,6 @@
 # Infosec / Hacking - RBOIS
 
-A living resource page for hackers, researchers, and curious minds.
+An evolving resource page for hackers, researchers, and students looking to delve into the security field.
 
 ## Table of Contents
 
