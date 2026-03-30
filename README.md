@@ -2,7 +2,7 @@
 
 A living resource page for hackers, researchers, and curious minds.
 
-\---
+\
 
 ## Table of Contents
 
