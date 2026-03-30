@@ -2,8 +2,6 @@
 
 A living resource page for hackers, researchers, and curious minds.
 
-\---
-
 ## Table of Contents
 
 * [Communities](#communities)
@@ -15,7 +13,6 @@ A living resource page for hackers, researchers, and curious minds.
 * [Obscure Resources](#obscure-resources)
 * [Starter Projects](#starter-projects)
 
-\---
 
 ## Communities
 
@@ -46,8 +43,8 @@ A living resource page for hackers, researchers, and curious minds.
 
 ### In-Person and Meetup Communities
 
-* [DEF CON Groups (DCGs)](https://defcongroups.org/) - Local hacker groups in 200+ cities worldwide. Find your chapter.
-* [OWASP Local Chapters](https://owasp.org/chapters/) - Web security focused. Good for appsec networking.
+* [DEF CON Groups (DCGs)](https://defcongroups.org/) - Local hacker groups in 200+ cities worldwide.
+* [OWASP Local Chapters](https://owasp.org/chapters/) - Web security focused. Good source for appsec networking.
 
 ### 
 
@@ -58,7 +55,7 @@ A living resource page for hackers, researchers, and curious minds.
 * [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free web app security training.
 * [VulnHub](https://www.vulnhub.com/) - Downloadable vulnerable VMs for local practice.
 
-\---
+
 
 ## Researchers and People Worth Following
 
@@ -99,7 +96,7 @@ These people break the stories everyone else republishes.
 
 
 
-\---
+
 
 ## Tools
 
@@ -191,7 +188,7 @@ These curated list of tools for diving into different cybersecurity fields.
 * [REMnux](https://remnux.org/) - Malware analysis distro.
 * [SANS SIFT Workstation](https://www.sans.org/tools/sift-workstation/) - DFIR-focused environment.
 
-\---
+
 
 ## Writeups and Case Studies
 
@@ -216,7 +213,7 @@ These curated list of tools for diving into different cybersecurity fields.
 * [Black Hat and DEF CON 2024 Research Roundup - TechCrunch](https://techcrunch.com/2024/08/12/best-hacks-security-research-black-hat-def-con-2024/) - Annual summary of top research presented at the cons.
 * [Copilot AI Prompt Injection - Zenity, Black Hat 2024](https://www.zenity.io/blog/research/copilot-prompt-injection-microsoft-365-copilot) - Live demo of extracting bank account numbers from Microsoft Copilot via HTML injection.
 
-\---
+
 
 ## Events and Conferences
 
@@ -238,7 +235,7 @@ These curated list of tools for diving into different cybersecurity fields.
 * [DEF CON Media Server](https://media.defcon.org/) - Decades of talks.
 * [Black Hat YouTube](https://www.youtube.com/@BlackHatOfficialYT) - Free talks posted after the conference.
 
-\---
+
 
 ## Rabbit Holes
 
@@ -280,7 +277,7 @@ The intersection of LLMs and security is new territory and moving fast.
 * [Garak LLM Scanner](https://github.com/leondz/garak) - Run automated vulnerability probes against LLMs yourself.
 * [Prompt Injecting?](https://www.ibm.com/think/topics/prompt-injection) - The term "prompt injection" was coined by Riley Goodside in September 2022 in a single tweet. 
 
-\---
+
 
 ## Obscure Resources
 
@@ -317,7 +314,7 @@ Disclosures and research often surface here first.
 * [OpenSecurityTraining2](https://p.ost2.fyi/) - Free security courses.
 * [pwn.college](https://pwn.college/) - Arizona State's free binary exploitation course.
 
-\---
+
 
 ## Starter Projects
 
@@ -371,7 +368,7 @@ Writing and publishing your first CTF writeup is the moment people find you.
 
 Note: The term [CTF](https://defcon.org/html/links/dc-ctf-history.html) in hacking originated at DEF CON in 1996 as a literal physical flag competition before evolving into the digital challenge format used today.
 
-\---
+
 
 ## About This Page
 
@@ -379,7 +376,7 @@ I am treating this page as an evolving document. I tried my best to link everyth
 
 Contributions are especially welcome for: hardware hacking, non-English communities, AI security, and DFIR.
 
-\---
+
 
 This was made on March 2026
 
